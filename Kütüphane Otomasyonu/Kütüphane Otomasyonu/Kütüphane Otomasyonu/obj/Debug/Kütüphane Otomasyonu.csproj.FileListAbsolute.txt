@@ -1,0 +1,33 @@
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.İslem.resources
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyelik.resources
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.tümkitaplar.resources
+C:\Users\murat\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TumUyeler.resources
+C:\Users\murat\Desktop\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\murat\Desktop\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\murat\Desktop\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\MySql.Data.dll
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\MySql.Data.xml
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TumUyeler.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.tümkitaplar.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.uyelik.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.İslem.resources
+D:\c#\ozel otomosyonlar\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.Cache
